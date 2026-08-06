@@ -7,7 +7,7 @@ command).
 ## Usage
 
 ```powershell
-scoop bucket add faster-dooit https://github.com/XiaTian-AC-bucket
+scoop bucket add faster-dooit https://github.com/XiaTian-AC/XiaTian-AC-bucket
 scoop install faster-dooit
 ```
 
