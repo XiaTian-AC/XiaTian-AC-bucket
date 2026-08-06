@@ -1,13 +1,21 @@
-# scoop-faster-dooit
+# XiaTian-AC-bucket
 
-Personal Scoop bucket for **faster-dooit** (installs as the `fdooit` command).
+Personal Scoop bucket for XiaTian-AC projects — a single shared bucket for
+multiple apps. Currently hosts **faster-dooit** (installs as the `fdooit`
+command).
 
 ## Usage
 
 ```powershell
-scoop bucket add faster-dooit https://github.com/XiaTian-AC/scoop-faster-dooit
+scoop bucket add faster-dooit https://github.com/XiaTian-AC-bucket
 scoop install faster-dooit
 ```
+
+## Contents
+
+| App | Manifest | Command |
+|---|---|---|
+| faster-dooit | `faster-dooit.json` | `fdooit` |
 
 ## What is faster-dooit?
 
@@ -20,7 +28,7 @@ Source: https://github.com/XiaTian-AC/faster-dooit
 
 ## Maintenance
 
-The manifest in this bucket is **auto-updated by the release CI** in the
-faster-dooit repo: every `vX.Y.Z` tag rebuilds and pushes a fresh
-`faster-dooit.json` with the correct SHA256. See `.scoop/faster-dooit.json.tmpl`
-in the source repo for the template.
+Manifests in this bucket are **auto-updated by each project's release CI**:
+every `vX.Y.Z` tag rebuilds and pushes a fresh manifest with the correct
+SHA256. See `.scoop/faster-dooit.json.tmpl` in the source repo for the
+template.
