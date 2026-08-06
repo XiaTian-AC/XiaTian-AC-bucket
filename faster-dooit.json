@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/XiaTian-AC/faster-dooit/releases/download/v0.2.0/faster-dooit-windows-amd64.zip",
-            "hash": "sha256:8f604fd541348853617a4ae2f2e6eec3a43cb7de33f0723993f15bb5764e4c16",
+            "hash": "sha256:be9cc6710abf805a3b1e6b112bf24f7d94393414eb71012b100cc3cbc3b73c3d",
             "bin": [
                 [
                     "fdooit.exe",
