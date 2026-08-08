@@ -1,12 +1,12 @@
 {
-    "version": "0.4.1",
+    "version": "0.4.2",
     "description": "A vim-style TUI todo manager written in Go. Unaffiliated with the dooit project; AI-assisted, hobby project.",
     "homepage": "https://github.com/XiaTian-AC/faster-dooit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/XiaTian-AC/faster-dooit/releases/download/v0.4.1/faster-dooit-windows-amd64.zip",
-            "hash": "sha256:24c2434759003295a7da8654330a86efc759abb0fd7823c7f0d783c2aea3b26c",
+            "url": "https://github.com/XiaTian-AC/faster-dooit/releases/download/v0.4.2/faster-dooit-windows-amd64.zip",
+            "hash": "sha256:a16fa76187378086ae517e32ff3ecff09d0a91ce73834987e8ba1dc93ce70016",
             "bin": [
                 [
                     "fdooit.exe",
