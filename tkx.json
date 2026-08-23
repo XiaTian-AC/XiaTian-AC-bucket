@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "A modern task runner with Lua taskfiles and built-in background task management. Global tasks + bstart/watch/stop.",
     "homepage": "https://github.com/XiaTian-AC/tkx",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/XiaTian-AC/tkx/releases/download/v0.1.0/tkx-windows-amd64.zip",
-            "hash": "sha256:4dab0b9729b197cc3df8cb47b7dec4193a551058b1b30889fa7ad1a4d66331fa",
+            "url": "https://github.com/XiaTian-AC/tkx/releases/download/v0.2.0/tkx-windows-amd64.zip",
+            "hash": "sha256:bf346ab903d062dd3719e676b5a63489326220143e5c419ad011574a8ee81cb5",
             "bin": [
                 [
                     "tkx.exe",
