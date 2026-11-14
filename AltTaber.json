@@ -1,0 +1,23 @@
+{
+    "version": "0.5.0",
+    "description": "macOS-style Alt-Tab window switcher for Windows (Qt6), with native DWM thumbnails and a window strip.",
+    "homepage": "https://github.com/XiaTian-AC/AltTaber",
+    "license": "Unknown",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/XiaTian-AC/AltTaber/releases/download/v0.5.0/AltTaber-v0.5.0-win64.zip",
+            "hash": "sha256:751fb9aa8d1e7ad6e8c001cf50138c3145cb7b965a37456a773a5665edda64dd",
+            "bin": "AltTaber.exe"
+        }
+    },
+    "checkver": {
+        "github": "https://github.com/XiaTian-AC/AltTaber"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/XiaTian-AC/AltTaber/releases/download/v$version/AltTaber-v$version-win64.zip"
+            }
+        }
+    }
+}
