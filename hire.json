@@ -1,12 +1,12 @@
 {
-    "version": "2.1.0",
+    "version": "2.2.0",
     "description": "A task runner for taskfiles in any language (Lua native, Python/Node/C++ via the __hire__ contract), with background jobs built in: bstart/watch/stop.",
     "homepage": "https://github.com/XiaTian-AC/hire",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/XiaTian-AC/hire/releases/download/v2.1.0/hire-windows-amd64.zip",
-            "hash": "sha256:35511bdaac0b9e63c51f3fb8952b68d5d91a5fb25efcfca49a393c4c458f4764",
+            "url": "https://github.com/XiaTian-AC/hire/releases/download/v2.2.0/hire-windows-amd64.zip",
+            "hash": "sha256:0e4f2a71c1f73b07fa8a6750c1d1d91876ffbc85f838d88a4588b0054fa0012d",
             "bin": [
                 [
                     "hire.exe",
